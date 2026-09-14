@@ -180,11 +180,3 @@ Contributions and suggestions are welcome.
 3. Make your changes.
 4. Test the launcher on Windows.
 5. Open a pull request.
-
-## License
-
-Add your preferred open-source license here.
-
----
-
-Made for anime fans who want a simple Windows downloader.
